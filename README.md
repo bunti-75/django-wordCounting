@@ -1,0 +1,2 @@
+# django-wordCounting
+Hello django
